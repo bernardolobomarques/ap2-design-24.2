@@ -5,4 +5,4 @@ Grupo:
 - Bernardo Lobo Marques: 202401709433
 - Bernardo Moreira Gonçalves: 202401500283
 - Michel de Melo:
-- Guilherme Dias:
+- Guilherme Dias Batista: 202402972091
