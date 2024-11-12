@@ -3,6 +3,6 @@ Repositorio para a ap2 de design gráfico e UX UI da turma de quarta-feira no pe
 
 Grupo:
 - Bernardo Lobo Marques: 202401709433
-- Bernardo Moreira Gonçalves:
+- Bernardo Moreira Gonçalves: 202401500283
 - Michel de Melo:
 - Guilherme Dias:
